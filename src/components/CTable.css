@@ -1,0 +1,8 @@
+.CTable {
+    display: flex;
+    flex-direction: column;
+}
+
+.CTable th, .CTable td {
+    border: 1px solid rgb(calc(255 - 228), calc(255 - 240), calc(255 - 245));
+}
