@@ -1,0 +1,17 @@
+.CEssenceMV {
+    display: flex;
+    flex-direction: column;
+}
+
+.CEssenceMV .CEssenceControls {
+    height: 100px;
+    background-color: #330033;
+}
+
+.CEssenceMV .CEssenceControls p {
+    color: white;
+}
+
+.CEssenceMV .CTable {
+    flex: 1;
+}

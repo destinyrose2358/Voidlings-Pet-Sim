@@ -1,0 +1,18 @@
+{
+    "0": {
+        "name": "fire",
+        "color": "red"
+    },
+    "1": {
+        "name": "water",
+        "color": "blue"
+    },
+    "2": {
+        "name": "earth",
+        "color": "brown"
+    },
+    "3": {
+        "name": "air",
+        "color": "light-blue"
+    }
+}
